@@ -1,5 +1,5 @@
 close all
-addpath ../denoisers;
+
 A = imread('cameraman.tif');
 A = im2double(A);
 m = 3;
